@@ -1,4 +1,4 @@
-# Excel-Projects
+# Excel-Project
 Introduction
 
 This project is part of my first week of learning data analysis using Microsoft Excel. The goal is to understand how Excel works, use simple formulas to do calculations, and organize data neatly.
